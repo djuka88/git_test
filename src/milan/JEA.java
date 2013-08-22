@@ -4,5 +4,5 @@ public class JEA {
 
 	String milan;
 	int z;
-	kkl
+	int g;
 }
